@@ -25,7 +25,7 @@
   --spacing-sm: clamp(0.25em, 1.25%, 0.75em);
 
   // Theme
-  --theme: hsl(355, 100%, 50%);
+  --theme: hsl(60, 100%, 50%);
 }
 
 $font-stack: Gill Sans, Helvetica, sans-serif;
@@ -52,14 +52,6 @@ $background-dark-theme: hsl(0, 0%, 20%);
   .links {
     margin: 0;
     color: $font-dark-theme;
-  }
-
-  .night-mode-btn {
-    color: $font-dark-theme;
-
-    svg {
-      fill: $font-dark-theme;
-    }
   }
 
   .link-btn {

@@ -1,18 +1,17 @@
 ---
-title: Tenants are Neglected at Every Turn
-description: Rents in the city of Toronto are at some of the lowest levels they've been in years, but affordable housing advocates say they haven't dropped enough to have an impact
+title: Selection of candidate to run in the upcoming Ward 20, Scarborough southwest by-election
+description: Corey David has been elected to run for Scarborough southwest, ward 20
 ---
 
-![Acorn Tenants](../../img/acorn-tenants.jpeg)
+<img
+    src="./../img/msa-demands.png"
+    alt="Municipal Socialist Alliance"
+    width="1450"
+    height="790"
+  />
 
-Excerpt from CBC [News](https://www.cbc.ca/news/canada/toronto/toronto-rents-increase-pandemic-1.6075775)
+Toronto City Council called the by-election to fill the vacated seat of Gary Crawford, a conservative Councillor who ran unsuccessfully in a provincial by-election.
 
-"In a city such as Toronto, where the cost of food, transportation, shelter is so high … we're talking thousands and thousands of households who are barely making it."
+Corey David, who was the MSA candidate in October 2023, is now seeking the nomination for the election that will occur this Fall. On September 8, 2023 at the special MSA meeting, members nominated Corey David to fill the vacancy left by councillor Gary Crawford.
 
-York Street and Lake Shore Boulevard sat unoccupied for months until the prices dropped by several hundred dollars and landlords started including incentives like two months' free rent, parking or gift cards.
-
-But that's cold comfort for low- and middle-income renters, like Vadivelu and Gordon.
-
-"It's just a creative way to market it and bring more and more rental income," said Vadivelu.
-
-"Real tenants, they're not seeing any rent reduction."
+For more information or campaign support, MSA can be reached via email MunicipalSocialistAlliance[at]gmail[dot]com.

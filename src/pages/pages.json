@@ -1,5 +1,4 @@
 {
   "layout": "base.html",
-  "date": "2022-08-05",
   "permalink": "/{{ title | slugify }}/"
 }

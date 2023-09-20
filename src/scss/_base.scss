@@ -35,7 +35,8 @@ body {
 
       a {
         margin-right: 0.75em;
-        font-size: 1.2em;
+        font-size: 1.4em;
+        font-weight: 600;
         text-decoration: none;
         color: $font-light-theme;
         &:hover {
@@ -46,7 +47,7 @@ body {
 
     .logo {
       text-transform: uppercase;
-      font-weight: 600;
+      font-weight: 900;
     }
 
     .night-mode-btn {

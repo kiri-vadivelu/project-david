@@ -1,5 +1,5 @@
 # Security header/ Digital Designers 
-# Implemented for https://scarboroughtenants.ca
+# Implemented for https://corey-david.ca
 
 [build]
   publish = "_site"
@@ -18,29 +18,12 @@
 
 # netlify route
 [[redirects]]
-  from = "https://scarboroughtenants.netlify.app"
-  to = "https://scarboroughtenants.ca"
+  from = "https://corey-david.netlify.app"
+  to = "https://corey-david.ca"
   status = 301
   force = true
 
-# more blogs
-[[redirects]]
-from = "/hashnode"
-to = "https://scarborough.hashnode.dev"
-status = 301
-force = true
-
-[[redirects]]
-from = "/substack"
-to = "https://scarborough.substack.com"
-status = 301
-force = true
-
-[[redirects]]
-from = "/tealfeed"
-to = "https://tealfeed.com/scarborough"
-status = 301
-force = true
+# social media
 
 # feeds
 [[redirects]]

@@ -1,12 +1,12 @@
 {
-  "title": "Scarborough Tenants Union",
-  "url": "https://scarboroughtenants.ca",
+  "title": "Corey David for Scarborough Southwest",
+  "url": "https://corey-david.ca",
   "language": "en",
-  "description": "Official website for Scarborough Tenants Union",
+  "description": "Official website for Corey David's campaign",
   "author": {
     "name": "Kiri Vadivelu",
-    "email": "join@scarboroughtenants.ca"
+    "email": "info@corey-david.ca"
   },
   "image": "./logo.png",
-  "feedUrl": "https://scarboroughtenants.ca/feed.xml"
+  "feedUrl": "https://corey-david.ca/feed.xml"
 }
