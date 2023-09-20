@@ -1,6 +1,6 @@
 # DIGITAL DESIGNERS
 
-Netlify badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0e1d863-2248-43fa-a774-f239e4d647ab/deploy-status)](https://app.netlify.com/sites/corey-david/deploys)
 
 - License [Project](https://kiri-vadivelu.ca/license.txt)
 - Build System [11TY](https://11ty.dev/)
