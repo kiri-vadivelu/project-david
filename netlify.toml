@@ -17,11 +17,11 @@
   Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
 
 # netlify route
-[[redirects]]
-  from = "https://corey-david.netlify.app"
-  to = "https://corey-david.ca"
-  status = 301
-  force = true
+# [[redirects]]
+# from = "https://corey-david.netlify.app"
+# to = "https://corey-david.ca"
+# status = 301
+# force = true
 
 # social media
 
