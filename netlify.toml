@@ -16,12 +16,12 @@
   Content-Security-Policy = "upgrade-insecure-requests"
   Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
 
-# netlify route
-# [[redirects]]
-# from = "https://corey-david.netlify.app"
-# to = "https://corey-david.ca"
-# status = 301
-# force = true
+# Netlify
+ [[redirects]]
+ from = "https://corey-david.netlify.app"
+ to = "https://corey-david.ca"
+ status = 301
+ force = true
 
 # social media
 
