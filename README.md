@@ -1,6 +1,6 @@
 # DIGITAL DESIGNERS
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9d843b2c-dcb7-4f09-be5f-5d13e5345b90/deploy-status)](https://app.netlify.com/sites/scarboroughtenants/deploys)
+Netlify badge
 
 - License [Project](https://kiri-vadivelu.ca/license.txt)
 - Build System [11TY](https://11ty.dev/)
