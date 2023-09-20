@@ -1,0 +1,61 @@
+// Fluid typography (Utopia)
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1;
+  word-wrap: break-word;
+  margin-bottom: 0.5em;
+}
+
+// viewport 320 to 1280, font 16 to 24, scale 1.333
+
+p {
+  font-size: var(--step-0);
+  margin-bottom: 0.75em;
+}
+
+h2 {
+  font-size: var(--step-2);
+  font-weight: 700;
+  letter-spacing: -0.1rem;
+  opacity: var(--opacity);
+}
+
+h1 {
+  font-size: var(--step-3);
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: -0.15rem;
+  opacity: var(--opacity);
+}
+
+h3 {
+  opacity: var(--opacity);
+  font-size: var(--step-1);
+}
+
+h4 {
+  font-size: var(--step-0);
+  text-transform: uppercase;
+  opacity: var(--opacity);
+}
+
+small {
+  font-size: var(--step--1);
+}
+
+footer a {
+  font-weight: 600;
+}
+
+.land-acknowledgement {
+  font-style: italic;
+  background-color: hsl(0, 0%, 60%);
+  border-radius: var(--radius);
+  padding: var(--spacing);
+}
+
+.center {
+  text-align: center;
+}
