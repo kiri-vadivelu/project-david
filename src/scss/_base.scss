@@ -112,11 +112,9 @@ body {
 
     .title {
       font-weight: 600;
+      color: var(--accent);
       font-size: var(--step-1);
       margin-bottom: var(--spacing-sm);
-      border-left: 0.25em solid var(--accent);
-      border-radius: 0.25em;
-      padding-left: 0.25em;
     }
 
     .description {
