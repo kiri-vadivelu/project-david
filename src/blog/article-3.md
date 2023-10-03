@@ -1,6 +1,6 @@
 ---
-title: Yes, Corey David for Scarborough Southwest, Ward 20
-description: Official socialist candidate in by-election registered at Toronto City Hall
+title: Yes, Candidate for Scarborough Southwest, Ward 20
+description: Socialist to create a better life for workers, the poor, and the oppressed
 ---
 
 <img
