@@ -4,10 +4,11 @@ description: Police, Poverty and the Cycle of Violence
 ---
 
 <img
-src="./../img/fund-community-not-cops.jpg"
-alt="Police, Poverty and the Cycle of Violence"
-
-/>
+    src="./../img/police-poverty-and-the-cycle-of-violence.jpg"
+    alt="Municipal Socialist Alliance Candidate for Scarborough Southwest, Ward 20"
+    width="1280"
+    height="853"
+  />
 
 Why does poverty exist in our modern society, and why can’t we take care of each other? Why can’t we meet workers' and poor people’s basic needs, including dignity? The reason is that we live in a system that venerates the rights of property over people. The working class in Toronto is clearly being extorted by landlords, by multi-billion-dollar grocery chains, and, at the top, by giant banks. How is this the case when working people are the vast majority while also being reduced to the margins, as living costs exceed wages and there are scarce quality job opportunities for the essential maintenance of our public support systems?
 
