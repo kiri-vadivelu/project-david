@@ -1,6 +1,7 @@
 ---
 title: "Scarborough Southwest By-election 2023: Candidate Corey David answers"
 description: "Scarborough Southwest By-election 2023: Candidate Corey David answers"
+date: 2023-11-16
 ---
 
 <img

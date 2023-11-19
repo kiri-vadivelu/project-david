@@ -1,6 +1,7 @@
 ---
-title: Selection of Candidate to Run in the Upcoming Ward 20 by-election
+title: Selection of Candidate for Upcoming Ward 20 by-election
 description: Corey David elected to run for Scarborough southwest, ward 20
+date: 2023-09-16
 ---
 
 <img

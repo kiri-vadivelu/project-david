@@ -1,6 +1,7 @@
 ---
-title: Yes, Candidate for Scarborough Southwest, Ward 20
-description: Socialist to create a better life for workers, the poor, and the oppressed
+title: Yes, Running for Scarborough Southwest, Ward 20
+description: Socialist to create a better life for workers and the oppressed
+date: 2023-09-21
 ---
 
 <img

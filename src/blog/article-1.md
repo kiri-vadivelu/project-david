@@ -1,6 +1,7 @@
 ---
-title: Registration of Corey David for Scarborough Southwest, Ward 20
-description: Socialist candidate in by-election registered at Toronto City Hall on Wednesday, Sept. 20
+title: Announcing Corey David for Scarborough Southwest Ward 20
+description: Socialist candidate in by-election registered at Toronto City Hall
+date: 2023-09-20
 ---
 
 <img

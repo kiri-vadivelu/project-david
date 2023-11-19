@@ -1,6 +1,7 @@
 ---
-title: Police, Poverty and the Cycle of Violence
-description: Police, Poverty and the Cycle of Violence
+title: The Crisis of Police, Poverty and the Cycle of Violence
+description: The Crisis of Police, Poverty and the Cycle of Violence
+date: 2023-11-16
 ---
 
 <img
